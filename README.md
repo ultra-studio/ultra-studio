@@ -102,10 +102,25 @@
 
 ---
 
-## 📫 Contact
+---
 
-- 💬 Discord: yourserverlink  
-- 📱 WhatsApp: yournumber  
+## 📫 Contact & Community
+
+- 💬 Discord: [Join Now](https://discord.gg/QmgpkZembx)  
+- 📱 WhatsApp: [Contact Us](https://wa.me/+212617268804)
+
+---
+
+## 💼 Our Services
+
+```ts
+const UltraStudioServices = {
+  web_development: "Professional websites (Portfolio, Business, SaaS, E-commerce)",
+  bot_development: "Discord, Telegram & WhatsApp bots (custom systems & automation)",
+  fivem_redm: "Server development, custom scripts, optimization & fixes",
+  graphic_design: "Modern UI/UX, branding, banners, and visual identity",
+  advanced_projects: "High-end scalable systems with advanced features & performance"
+};
 
 ---
 
